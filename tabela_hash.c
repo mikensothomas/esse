@@ -41,7 +41,7 @@ int buscarNaLista(int t[], int chave)
     }
     return 0;  
 }
-
+/*Mikenson thomas*/
 void imprimirTabela(int t[])
 {
     for (int i = 0; i < TAM; i++)
